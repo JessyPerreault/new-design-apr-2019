@@ -109,14 +109,14 @@ body {
   Main Content
   **********************************/
   
-  #main {
+#main {
     transition: margin-left .5s;
     padding: 16px;
-  }
-
-  body{
-    overflow:hidden;
 }
+
+/* body{
+    overflow:hidden;
+} */
 
 #flipbook{
     width:400px;
