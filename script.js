@@ -7,3 +7,9 @@ function openNav() {
     document.getElementById("mySidenav").style.width = "0";
     document.getElementById("main").style.marginLeft= "0";
   }
+
+  $("#flipbook").turn({
+    width: 400,
+    height: 300,
+    autoCenter: true
+});
