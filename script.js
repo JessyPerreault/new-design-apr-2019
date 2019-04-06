@@ -8,8 +8,8 @@ function openNav() {
     document.getElementById("main").style.marginLeft= "0";
   }
 
-  $("#flipbook").turn({
-    width: 400,
+$("#flipbook").turn({
+    width: 800,
     height: 300,
     autoCenter: true
 });
